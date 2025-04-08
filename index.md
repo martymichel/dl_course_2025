@@ -59,7 +59,7 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
 
 ## Provided Material 
 - Day 1
-  - Slides: [01_Introduction](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/01_Introduction.pdf)
+  - Slides: [01_Introduction](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/01_Introduction.pdf)
   - Additional Material: 
     - [Network Playground](https://playground.tensorflow.org/)
   - Exercises and Homework: 
