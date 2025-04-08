@@ -52,7 +52,7 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
 | 4        | 12.03.2024 | 13:30-17:00 | DL in practice, pretrained (foundation) models  | 
 | 5        | 19.03.2024 | 13:30-17:00 | Model evaluation, baselines, xAI, troubleshooting  |
 | 6        | 26.03.2024 | 13:30-17:00 | Generative Models, Transformer-architecture   |
-| 7        | 02.04.2024 | 13:30-17:00 | vision Transformer  |
+| 7        | 02.04.2024 | 13:30-17:00 | Vision Transformer  |
 | 8        | 09.04.2024 | 13:30-17:00 | Projects, deep Ensembling   |
 
 
