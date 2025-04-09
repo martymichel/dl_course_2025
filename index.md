@@ -66,5 +66,5 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
   - Additional Material: 
     - [Network Playground](https://playground.tensorflow.org/)
   - Exercises:
-  - - [Banknote Example 01_fcnn_with_banknotes.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_simple_forward_pass_keras_torch.ipynb)
+  - - [01_simple_forward_pass_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_simple_forward_pass_keras_torch.ipynb)
   
