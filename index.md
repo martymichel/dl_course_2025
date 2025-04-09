@@ -66,7 +66,7 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
   - Additional Material: 
     - [Network Playground](https://playground.tensorflow.org/)
   - Exercises:
-    - [01_simple_forward_pass_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_simple_forward_pass_keras_torch.ipynb)[COLAB <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20"></a>](https://colab.research.google.com/github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_simple_forward_pass_keras_torch.ipynb)
+    - [01_simple_forward_pass_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_simple_forward_pass_keras_torch.ipynb)  [ open in Colab](https://colab.research.google.com/github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_simple_forward_pass_keras_torch.ipynb)
    
       
   
