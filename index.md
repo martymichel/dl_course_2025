@@ -1,7 +1,7 @@
 
 # Deep Learning (CAS machine intelligence, 2025) 
 
-This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2024/tree/master/notebooks) used in the course). 
+This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2025/tree/master/notebooks) used in the course). 
 
 For doing the hands-on part we recommend to use google colab <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20"></a> (you might need a google account) an internet connections is also needed. If you want to do it without internet connection on your own computer you can install anaconda ([details and installation instruction](anaconda.md)). Please note that we are not experts in anaconda and thus can only give limited support.
 
