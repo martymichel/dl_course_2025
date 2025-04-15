@@ -37,7 +37,6 @@ We took inspiration (and sometimes slides / figures) from the following resource
 
 * Convolutional Neural Networks for Visual Recognition [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/), has additional material and [youtube videos of the lectures](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC). While the focus is on computer vision, it also treats other topics such as optimization, backpropagation and RNNs. Lecture notes can be found at [http://cs231n.github.io/](http://cs231n.github.io/).
 
-* More TensorFlow examples can be found at [dl_tutorial](https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/) 
 
 * Math concept videos at [3blue1brown](https://www.youtube.com/@3blue1brown)
 
@@ -46,14 +45,17 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
 
 | Day  |      Date    |      Time    |   Topic
 |:--------:|:--------------|:---------|:---------------|
-| 1        | 20.02.2024 | 13:30-17:00 |  Introduction to Deep Learning & Keras, first NNs |
-| 2        | 27.02.2024 | 13:30-17:00 | Loss, Optimization, Regression, Classification  |
-| 3        | 05.03.2024 | 13:30-17:00 | Computer vision, CNN-archictecture  |
-| 4        | 12.03.2024 | 13:30-17:00 | DL in practice, pretrained (foundation) models  | 
-| 5        | 19.03.2024 | 13:30-17:00 | Model evaluation, baselines, xAI, troubleshooting  |
-| 6        | 26.03.2024 | 13:30-17:00 | Generative Models, Transformer-architecture   |
-| 7        | 02.04.2024 | 13:30-17:00 | Vision Transformer  |
-| 8        | 09.04.2024 | 13:30-17:00 | Projects, deep Ensembling   |
+| 1        | 15.04.2025 | 09:00-12:30 |  Introduction to Deep Learning & Keras, first NNs |
+| -        | 21.04.2025 |-            | FRÜHLINGS-FERIEN                                  |
+| -        | 28.04.2025 |-            | FRÜHLINGS-FERIEN                                  |
+| 2        | 06.05.2025 | 09:00-12:30 | Loss, Optimization, Regression, Classification    |
+| 3        | 13.05.2025 | 09:00-12:30 | Computer vision, CNN-archictecture  |
+| 4        | 20.05.2025 | 09:00-12:30 | DL in practice, pretrained (foundation) models  | 
+| 5        | 27.05.2025 | 09:00-12:30 | Model evaluation, baselines, xAI, troubleshooting  |
+| 6        | 03.06.2025 | 09:00-12:30 | Generative Models, Transformer-architecture   |
+| 7        | 10.06.2025 | 09:00-12:30 | Vision Transformer  |
+| 8        | 17.06.2025 | 09:00-12:30 | Projects, deep Ensembling   |
+
 
 
 
@@ -64,5 +66,6 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
   - Additional Material: 
     - [Network Playground](https://playground.tensorflow.org/)
   - Exercises:
-  - - [Banknote Example 01_fcnn_with_banknotes.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_fcnn_with_banknotes.ipynb)
+    - [01_simple_forward_pass_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_simple_forward_pass_keras_torch.ipynb) 
+      
   
