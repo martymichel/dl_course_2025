@@ -62,12 +62,13 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
 ## Provided Material 
 - Day 1
   - Slides:
-  - 
     - [01_Introduction](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/01_2025_Introduction.pdf)
   - Additional Material: 
     - [Network Playground](https://playground.tensorflow.org/)
   - Exercises:
     - [00_Checking_Correct_Installation_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/00_Checking_Correct_Installation_keras_torch.ipynb) 
     - [01_simple_forward_pass_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/01_simple_forward_pass_keras_torch.ipynb) 
-      
+- Day 2
+  - Slides:
+    - [02_Regression_Classification_Loss](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/02_2025_loss.pdf)    
   
