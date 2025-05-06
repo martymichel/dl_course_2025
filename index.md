@@ -74,5 +74,6 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
   - Exercises:
      - [02_fcnn_with_banknote_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/02_fcnn_with_banknote_keras_torch.ipynb)
      - [02_custom_loss.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/02_custom_loss.ipynb)
-
+- Day 3
+  - Slides:
     
