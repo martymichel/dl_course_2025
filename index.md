@@ -76,4 +76,6 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
      - [02_custom_loss.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/02_custom_loss.ipynb)
 - Day 3
   - Slides:
+     - [03_CNN](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/03_2025_CNN.pdf)    
+  - Exercises:
     
