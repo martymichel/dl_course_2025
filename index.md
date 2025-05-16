@@ -27,7 +27,7 @@ Open Datasets: [papers with code](https://paperswithcode.com/datasets), [kaggle]
 Hints: [Upload data to colab](https://colab.research.google.com/notebooks/io.ipynb) , [keras with your own images](https://keras.io/api/data_loading/)
 
  
-**Fill in the Title and the Topic of your Projects until End of Week 5 [here]()**
+**Fill in the Title and the Topic of your Projects until End of Week 5 [here](https://docs.google.com/spreadsheets/d/1dwH1f1-2veH2o9Gv6crmQHfVsSKZto-dDopfxTUbzy8/edit?gid=0#gid=0)**
 
 ## Other resources 
 We took inspiration (and sometimes slides / figures) from the following resources.
