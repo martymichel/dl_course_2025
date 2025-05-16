@@ -77,7 +77,7 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
      - [02_custom_loss.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/02_custom_loss.ipynb)
 - Day 3
   - Slides:
-     - [03_CNN](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/03_2025_CNN.pdf)
+     - [03_CNN_intro](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/03_2025_CNN_presented.pdf)
   - Additional Material:
     - [What is a Kernel (Interactive) ](https://setosa.io/ev/image-kernels/)
     
@@ -92,5 +92,7 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
        **optional** (what happens if we shuffle the image?):  [06_cnn_mnist_shuffled_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/06_cnn_mnist_shuffled_keras_torch.ipynb)
     
     - [07_cifar10_tricks_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/07_cifar10_tricks_keras_torch.ipynb)
-
+- Day 4
+  - Slides:
+     - [04_CNN_in_practice](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/04_2025_CNN_in_practice.pdf)
     
